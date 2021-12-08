@@ -1,0 +1,15 @@
+{
+    "/js/laravel.app.js": "/js/laravel.app.js",
+    "/js/oneui.app.js": "/js/oneui.app.js",
+    "/js/pages/tables_datatables.js": "/js/pages/tables_datatables.js",
+    "/css/themes/modern.css": "/css/themes/modern.css",
+    "/css/themes/flat.css": "/css/themes/flat.css",
+    "/css/themes/city.css": "/css/themes/city.css",
+    "/css/themes/amethyst.css": "/css/themes/amethyst.css",
+    "/css/oneui.css": "/css/oneui.css",
+    "/css/themes/smooth.css": "/css/themes/smooth.css",
+    "/resources/views/vendor/jsvalidation/bootstrap.php": "/resources/views/vendor/jsvalidation/bootstrap.php",
+    "/resources/views/vendor/jsvalidation/bootstrap4.php": "/resources/views/vendor/jsvalidation/bootstrap4.php",
+    "/resources/views/vendor/jsvalidation/bootstrap5.php": "/resources/views/vendor/jsvalidation/bootstrap5.php",
+    "/resources/views/vendor/jsvalidation/uikit.php": "/resources/views/vendor/jsvalidation/uikit.php"
+}
