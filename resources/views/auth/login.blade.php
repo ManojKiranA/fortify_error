@@ -49,7 +49,7 @@
                             </div>
                             <div class="col-lg-8">
                                 <input type="email" class="form-control" id="login_email"
-                                       name="login_email" placeholder="{{ __('Введите ваш е-мейл') }}">
+                                       name="email" placeholder="{{ __('Введите ваш е-мейл') }}">
                             </div>
                         </div>
 
@@ -59,7 +59,7 @@
                             </div>
                             <div class="col-lg-8">
                                 <input type="password" class="form-control" id="login_password"
-                                       name="login_password" placeholder="{{ __('Введите ваш пароль') }}">
+                                       name="password" placeholder="{{ __('Введите ваш пароль') }}">
                             </div>
                         </div>
 
